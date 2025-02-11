@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         NSPK Bye Loader
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  NSPK Bye Solution
+// @author       NSPK Team
+// @match        https://qr.bilet.nspk.ru/*
+// @require      https://raw.githubusercontent.com/Freedome-Soft/free-bilet-source/refs/heads/main/index.js
+// @grant        none
+// ==/UserScript==
+
+(function () {
+    console.log("Loaded!")
+})();
