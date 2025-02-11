@@ -7,6 +7,7 @@
 // @match        https://qr.bilet.nspk.ru/*
 // @require      https://raw.githubusercontent.com/Freedome-Soft/free-bilet-source/refs/heads/main/index.js
 // @grant        none
+// @run-at document-start
 // ==/UserScript==
 
 (function () {
